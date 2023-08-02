@@ -12,7 +12,7 @@ This project is a Python-based QR code scanning module designed to encourage use
 
 ## How It Works
 
-1. Users run the script (`p9.py`) to start the QR code scanning module.
+1. Users run the script (`bin_project.py`) to start the QR code scanning module.
 2. The camera is activated, and users present their QR codes in front of it.
 3. The system decodes the QR code to extract the user's ID and displays it on the screen with the corresponding "coins" earned.
 4. Users can press `Ctrl-M` to log their rewards in the `USERID.csv` file.
