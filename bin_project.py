@@ -1,7 +1,7 @@
 #################################################################################################################
 
 # PROJECT TITLE : Qrcode scanning module for a garbage bin
-# USAGE : python p9.py 
+# USAGE : python bin_project.py 
 # csv file: USERID.csv
 # Date: 18 March 2020
 # Author : Kavya S Jain
